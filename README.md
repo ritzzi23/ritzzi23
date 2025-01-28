@@ -29,17 +29,19 @@
 ![LLMs](https://img.shields.io/badge/LLM-RAG-10B981)
 
 ---
-
 ### 🏆 Highlight Projects
 
+<!-- Project 1: Neural Turing Machines Implementation -->
 #### [Neural Turing Machines Implementation](https://github.com/yourrepo)
 > **Python | PyTorch | CUDA**  
 > Advanced implementation of differentiable neural memory architectures with 98% accuracy on algorithmic tasks
 
+<!-- Project 2: Real-time Anomaly Detection -->
 #### [Real-time Anomaly Detection](https://github.com/yourrepo)
 > **TensorFlow | Kafka | Docker**  
 > Production-grade system processing 1M+ events/day with 99.5% recall
 
+<!-- Project 3: Mamba State Space Models -->
 #### [Mamba State Space Models](https://github.com/yourrepo)
 > **JAX | Triton | Benchmarking**  
 > Optimized sequence modeling architecture achieving 3x speedup over Transformers
@@ -50,7 +52,9 @@
 
 <p align="center">
   <a href="https://github.com/ritzzi23/ritzzi23/">
+    <!-- GitHub Stats Card -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+    <!-- Top Languages Card -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&hide=html,css"/>
   </a>
 </p>
@@ -59,10 +63,12 @@
 
 ### 🎓 Professional Journey
 
+<!-- Senior Data Scientist Role -->
 **Senior Data Scientist** @ [Company Name] *(2023-Present)*  
 - Led end-to-end development of ML-powered recommendation system boosting revenue by 27%
 - Architected feature store reducing model training time by 40%
 
+<!-- ML Research Engineer Role -->
 **ML Research Engineer** @ [Lab Name] *(2021-2023)*  
 - Published 3 papers at NeurIPS/ICML on memory-augmented neural networks
 - Developed novel attention mechanisms for time-series forecasting
@@ -71,9 +77,11 @@
 
 ### 📚 Latest Publications
 
+<!-- Publication 1 -->
 - **"[Paper Title]"**  
   *NeurIPS 2024* | [arXiv](https://arxiv.org/abs/xxxx) | [Code](https://github.com/yourrepo)
 
+<!-- Publication 2 -->
 - **"[Paper Title]"**  
   *JMLR 2023* | [DOI](https://doi.org/xxxx) | [Demo](https://huggingface.co/yourspace)
 
