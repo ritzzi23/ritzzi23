@@ -25,7 +25,7 @@
 **Specialized Skills**  
 ![NLP](https://img.shields.io/badge/NLP-Text_Analysis-3D8FC6?logo=huggingface)
 ![Computer_Vision](https://img.shields.io/badge/Computer_Vision-Image_Processing-5C3EE8?logo=opencv)
-![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Autoencoders-FF6F00)
+![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Neural_Networks-FF6F00?logo=tensorflow)
 ![LLMs](https://img.shields.io/badge/LLM-RAG-10B981)
 
 ---
