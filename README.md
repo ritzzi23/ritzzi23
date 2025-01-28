@@ -1,9 +1,9 @@
-# 🚀 Hi, I'm [Your Name] 
+# 🚀 Hi, I'm Ritesh Ojha 
 #### *Data Scientist | Machine Learning Engineer | AI Researcher*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-orange?style=flat-square&logo=kaggle)](https://kaggle.com/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat-square&logo=medium)](https://medium.com/@yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ritzzi23)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-orange?style=flat-square&logo=kaggle)](https://kaggle.com/riteshojha)
+[![X](https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x)](https://twitter.com/ritzzi23)
 
 ---
 
