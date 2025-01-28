@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Research-EE4C2C?logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Production-FF6F00?logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-Prototyping-D00000?logo=keras)
+![Keras](https://img.shields.io/badge/Keras-Models-D00000?logo=keras)
 ![MLOps](https://img.shields.io/badge/MLOps-AWS-FF9900?logo=amazon-aws)
 
 **Data Engineering**  
