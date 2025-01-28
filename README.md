@@ -17,8 +17,9 @@
 
 **Data Engineering**  
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?logo=postgresql)
-![Spark](https://img.shields.io/badge/Spark-ETL-E25A1C?logo=apache-spark)
-![Airflow](https://img.shields.io/badge/Airflow-Orchestration-017CEE?logo=apache-airflow)
+![PySpark](https://img.shields.io/badge/PySpark-ETL-E25A1C?logo=apache-spark)
+![Snowflake](https://img.shields.io/badge/Snowflake-Data_Warehousing-29B5E8?logo=snowflake)
+![Databricks](https://img.shields.io/badge/Databricks-Analytics-FF3621?logo=databricks)
 
 **Specialized Skills**  
 ![LLMs](https://img.shields.io/badge/LLM-RAG-10B981)
