@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Research-EE4C2C?logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Production-FF6F00?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Prototyping-D00000?logo=keras)
 ![MLOps](https://img.shields.io/badge/MLOps-AWS-FF9900?logo=amazon-aws)
 
 **Data Engineering**  
@@ -22,9 +23,10 @@
 ![Databricks](https://img.shields.io/badge/Databricks-Analytics-FF3621?logo=databricks)
 
 **Specialized Skills**  
+![NLP](https://img.shields.io/badge/NLP-Text_Analysis-3D8FC6?logo=huggingface)
+![Computer_Vision](https://img.shields.io/badge/Computer_Vision-Image_Processing-5C3EE8?logo=opencv)
+![Deep_Learning](https://img.shields.io/badge/Deep_Learning-Autoencoders-FF6F00)
 ![LLMs](https://img.shields.io/badge/LLM-RAG-10B981)
-![Time_Series](https://img.shields.io/badge/Time_Series-Forecasting-FF6F00)
-![Optimization](https://img.shields.io/badge/Optimization-Gurobi-EE4C2C)
 
 ---
 
