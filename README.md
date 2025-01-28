@@ -29,7 +29,3 @@
 ![LLMs](https://img.shields.io/badge/LLM-RAG-10B981)
 
 ---
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritzzi23&show_icons=true&locale=en&layout=compact" alt="a-hamdi" /></p>
-
----
