@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Ritesh Ojha 
-#### *Data Scientist | Machine Learning Engineer | AI Researcher*
+## *Data Scientist | Machine Learning Engineer | AI Researcher*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ritzzi23)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Practice-orange?style=flat-square&logo=kaggle)](https://kaggle.com/riteshojha)
